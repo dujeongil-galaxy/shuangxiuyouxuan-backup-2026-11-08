@@ -1,0 +1,21 @@
+{
+  "filesOnDisk": 877,
+  "bytesOnDisk": 59815177,
+  "htmlPages": 838,
+  "jobs": 18698,
+  "jobDetails": 18698,
+  "listPages": 935,
+  "siteTotal": 18698,
+  "movedOutOfRepo": [],
+  "crawl": {
+    "urls": 867,
+    "html": 838,
+    "failed": 0,
+    "duration_sec": 588
+  },
+  "extraCrawl": {
+    "itemsAdded": 6698,
+    "detailsOk": 6698,
+    "detailsFailed": 0
+  }
+}
